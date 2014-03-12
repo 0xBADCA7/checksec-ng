@@ -1,0 +1,2 @@
+stull:
+	go build .
